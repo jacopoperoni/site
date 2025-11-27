@@ -7,6 +7,12 @@ const Hero = () => {
       {/* BACKGROUND PDE */}
       <PDEBackground />
 
+      <div className="absolute bottom-2 right-3 text-xs md:text-sm 
+                    text-white/80 font-light tracking-wide 
+                    pointer-events-none select-none">
+      Stochastic Heat Equation
+      </div>
+
       {/* GRADIENT OVERLAY (optional) */}
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-background/50 z-5"></div>
 
