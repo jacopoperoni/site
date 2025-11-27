@@ -12,7 +12,7 @@ const Publications = () => {
 	</> 
       ), 
       authors: "Martin Hairer, Jacopo Peroni",
-      venue: "working on...",
+      venue: "In progress...",
      // year: "2025",
      // link: "#",
      // description: "Description of the paper's key findings and impact on the research community."
