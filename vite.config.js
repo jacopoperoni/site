@@ -3,6 +3,7 @@
    import path from 'path'
 
    export default defineConfig({
+     base: '/site/',
      plugins: [react()],
      resolve: {
        alias: {
